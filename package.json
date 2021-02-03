@@ -1,0 +1,10 @@
+{
+  "name": "inclass",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node heroes.test.js",
+    "start": "node heroes.js"
+  }
+}
